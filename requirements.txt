@@ -1,3 +1,8 @@
 jupyter
 ipykernel
 ipywidgets
+torch
+torchvision
+transformers
+Pillow
+ocrmac
