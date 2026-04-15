@@ -1,5 +1,9 @@
 # comic book image-to-image translation jupiter book
 
+# Demo video
+
+[![demo video](https://img.youtube.com/vi/sO5DIoWcK_g/0.jpg)](https://www.youtube.com/watch?v=sO5DIoWcK_g)
+
 This repository is my POC, building a pipeline to:
 
 1. identify comic "bubbles" with text in page
