@@ -6,3 +6,4 @@ torchvision
 transformers
 Pillow
 ocrmac
+openai

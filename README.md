@@ -31,3 +31,13 @@ If you want to run it elsewhere you'll need:
 ```
 jupyter notebook
 ```
+
+## Setting your OPENAI_API_KEY for translations
+
+I'm using chatgpt to tranlate text, 
+
+```
+vi .venv/bin/activate
+export OPENAI_API_KEY='your-key'
+source .venv/bin/activate
+```
